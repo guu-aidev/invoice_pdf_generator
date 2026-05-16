@@ -1,0 +1,3 @@
+﻿client_id,client_name,postal_code,address,contact_name,bank_name,bank_branch,account_type,account_number,account_holder
+C001,株式会社サンプル商事,100-0001,東京都千代田区丸の内1-1-1,営業部 山田太郎,〇〇銀行,渋谷支店,普通,1234567,カ）テックワークス
+C002,有限会社テスト工業,530-0001,大阪府大阪市北区梅田1-2-3,総務部 鈴木花子,△△銀行,梅田支店,普通,7654321,カ）テックワークス
